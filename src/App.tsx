@@ -1,7 +1,13 @@
-import Message from './message'
+import ListGroup from "./components/ListGroup";
 
 function App() {
-  return (<div><Message /></div>)
+  let items = ["New York", "Tokyo", "London", "Japan", "Los Angles", "Paris"];
+
+  return (
+    <div>
+      <ListGroup items={items} heading="Cities" />
+    </div>
+  );
 }
 
 export default App;
