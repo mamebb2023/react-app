@@ -17,7 +17,7 @@ Node.js and npm (or yarn) installed on your machine. Download and install them f
 
 Clone the repository:
 
-  git clone https://github.com/mamebb2023/react-app.git
+    git clone https://github.com/mamebb2023/react-app.git
 
 Navigate to the project directory:
 
