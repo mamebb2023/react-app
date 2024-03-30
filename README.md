@@ -1,7 +1,7 @@
 <img align="center" src="src/front.png" />
 
 # Brainwave
-<p>A React and Twilight Css App</p>
+<p>A React and Tailwind CSS App</p>
 
 ---
 
@@ -11,11 +11,11 @@ This is a [React](https://react.dev/) application that uses [Tailwind](https://t
     - This React application leverages Tailwind CSS to craft a stunning and responsive user experience, ensuring your website adapts seamlessly to any device while maintaining a modern aesthetic
 
 - **Highlight visual appeal**:
-    - Built with React and Tailwind CSS, this website delivers a captivating and responsive design.  Expect beautiful visuals that adjust perfectly to different screen sizes, offering a modern user experience.
+    - Built with React and Tailwind CSS, this website delivers a captivating and responsive design. Expect beautiful visuals that adjust perfectly to different screen sizes, offering a modern user experience.
 
 <div align="center">
-    <img width="300" src="src/react.png" />
-    <img width="300" src="src/tailwind.png" />
+    <img width="200" src="src/react.png" />
+    <img width="200" src="src/tailwind.png" />
 </div>
 
 You can view the website [here](https://brainwave-react-app.netlify.app/)
