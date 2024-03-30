@@ -3,7 +3,7 @@
 
 ---
 
-<strong>This is a React application.</strong>
+<strong>This is a [React](https://react.dev/) application that uses [Tailwind](https://tailwindcss.com/) Css for rendering a responsive modern UI/UX website. </strong>
 
 ## Getting Started
 
@@ -31,8 +31,10 @@ Install dependencies:
 
 Start the development server:
 
-    npm start  # or yarn start
+    npm run start  # or yarn start
 
 By default go to
+
     http://localhost:5173/
+
 to view the website
