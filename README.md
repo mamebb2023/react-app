@@ -25,7 +25,7 @@ These instructions will get you set up to develop and run the project locally.
 
 ### Prerequisites
 
-Node.js and npm (or yarn) installed on your machine. Download and install them from the official website if you don't have them already: [Node.js](https://nodejs.org/)
+[Node.js](https://nodejs.org/) and npm (or yarn) installed on your machine. Download and install them from the official website if you don't have them already.
 
 ### Installation
 
