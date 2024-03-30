@@ -11,7 +11,7 @@ These instructions will get you set up to develop and run the project locally.
 
 ### Prerequisites
 
-Node.js and npm (or yarn) installed on your machine. Download and install them from the official website if you don't have them already: Node.js: https://nodejs.org/
+Node.js and npm (or yarn) installed on your machine. Download and install them from the official website if you don't have them already: [Node.js](https://nodejs.org/)
 
 ### Installation
 
@@ -21,22 +21,18 @@ Clone the repository:
 
 Navigate to the project directory:
 
-  cd react-app
+    cd react-app
 
-Use code with caution.
+Install dependencies:
 
-  Install dependencies:
+    npm install  # or yarn install
 
-Bash
+### Development
 
-npm install  # or yarn install
+Start the development server:
 
-Use code with caution.
-Development
+    npm start  # or yarn start
 
-    Start the development server:
-
-Bash
-
-npm start  # or yarn start
-
+By default go to
+    http://localhost:5173/
+to view the website
