@@ -3,13 +3,19 @@
 
 ---
 
-<strong>This is a [React](https://react.dev/) application that uses [Tailwind](https://tailwindcss.com/) Css for rendering a responsive modern UI/UX website.</strong>
+This is a [React](https://react.dev/) application that uses [Tailwind](https://tailwindcss.com/) Css for rendering a responsive modern UI/UX website.**
     
-- Focus on user experience
+- **Focus on user experience**:
     - This React application leverages Tailwind CSS to craft a stunning and responsive user experience, ensuring your website adapts seamlessly to any device while maintaining a modern aesthetic
 
-- Highlight visual appeal
-      - Built with React and Tailwind CSS, this website delivers a captivating and responsive design.  Expect beautiful visuals that adjust perfectly to different screen sizes, offering a modern user experience.
+- **Highlight visual appeal**:
+    - Built with React and Tailwind CSS, this website delivers a captivating and responsive design.  Expect beautiful visuals that adjust perfectly to different screen sizes, offering a modern user experience.
+
+<div align="center">
+    hello\tworld
+</div>
+
+You can view the website [here](https://brainwave-react-app.netlify.app/)
 
 ## Getting Started
 
