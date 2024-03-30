@@ -1,4 +1,6 @@
-<img width="800" align="center" src="src/front.png" />
+<div align="center">
+    <img width="800" align="center" src="src/front.png" />
+</div>
 
 # Brainwave
 A React and Tailwind CSS App ( You can view the website [here](https://brainwave-react-app.netlify.app/) )
