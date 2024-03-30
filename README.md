@@ -17,21 +17,15 @@ Node.js and npm (or yarn) installed on your machine. Download and install them f
 
 Clone the repository:
 
-```bash
-
   git clone https://github.com/mamebb2023/react-app.git
-
-```
 
 Navigate to the project directory:
 
-Bash
-
-cd react-app
+  cd react-app
 
 Use code with caution.
 
-    Install dependencies:
+  Install dependencies:
 
 Bash
 
