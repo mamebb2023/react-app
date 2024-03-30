@@ -3,7 +3,7 @@
 </div>
 
 # Brainwave
-A React and Tailwind CSS App ( You can view the website [here](https://brainwave-react-app.netlify.app/) )
+A React and Tailwind CSS Website ( You can view the website [here](https://brainwave-react-app.netlify.app/) )
 
 ---
 
