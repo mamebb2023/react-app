@@ -22,9 +22,8 @@ Clone the repository:
   git clone https://github.com/mamebb2023/react-app.git
 
 ```
-Use code with caution.
 
-    Navigate to the project directory:
+Navigate to the project directory:
 
 Bash
 
