@@ -1,7 +1,7 @@
 <img align="center" src="src/front.png" />
 
 # Brainwave
-A React and Tailwind CSS App (You can view the website [here](https://brainwave-react-app.netlify.app/) )
+A React and Tailwind CSS App ( You can view the website [here](https://brainwave-react-app.netlify.app/))
 
 ---
 
