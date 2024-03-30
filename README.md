@@ -15,7 +15,7 @@ This is a [React](https://react.dev/) application that uses [Tailwind](https://t
 
 <div align="center">
     <img width="200" src="src/react.png" />
-    <p>&nbsp;</p>
+    <p>&emsp;</p>
     <img width="200" src="src/tailwind.png" />
 </div>
 
