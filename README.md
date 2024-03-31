@@ -43,6 +43,10 @@ Install dependencies:
 
     npm install  # or yarn install
 
+Install Tailwind CSS:
+
+    npm install -D tailwindcss postcss autoprefixer
+
 ### Development
 
 Start the development server:
